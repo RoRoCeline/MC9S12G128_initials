@@ -1,6 +1,6 @@
 /*   ###################################################################
 **     设置系统时钟，从EXTCLK口输出系统总线时钟（bus clock）
-**     Copyright : RoRoceline Songar Studio All Rights Reserved.
+**     Copyright : RoRoceline All Rights Reserved.
 **     从MCUinit 中备注或去掉备注，设置时钟初始化，基于16MHz晶振
 **     mail   : //undefined
 ** ###################################################################
